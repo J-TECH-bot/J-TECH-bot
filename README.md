@@ -43,7 +43,11 @@
 
 - 📫 How to reach me *jaydeshmukh135@gmail.com*
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left" style=' width:"90%"; margin: auto; padding: 23px;display: flex; gap: 18px; '>
+<a href="https://github.com/J-TECH-bot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Jay" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jay-deshmukh-4373761a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jay" height="30" width="40" /></a>
+  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style=' width:"90%"; margin: auto; padding: 23px; display: flex; gap: 18px;'> 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
@@ -52,4 +56,15 @@
 <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.Ubdf55d2nduG09owbJmS-wHaHV?w=174&h=180&c=7&r=0&o=5&pid=1.7" alt="css3" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  </p>
+ <div h='5cm'><img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt=""></div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Jay" />
+
+
+<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=J-TECH-bot&" alt="J-TECH-bot"  /></p></div>
+
+  <div style="display: flex; flex-direction:"row"; align-items: center; justify-content: center;" width="100%">
+        <img style="display:'block';" src="https://github-readme-stats.vercel.app/api?username=J-TECH-bot&show_icons=true&bg_color=00000000" alt='' />
+        <img style="display:'block';" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-TECH-bot&layout=compact" height="175px"  alt=''/>
+  </div>
 <h3 align="left">Thank you for Visiting</h3>
