@@ -42,3 +42,14 @@
 - 💬 Ask me about *PowerBI, SQL and Data Visualization*
 
 - 📫 How to reach me *jaydeshmukh135@gmail.com*
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left" style=' width:"90%"; margin: auto; padding: 23px; display: flex; gap: 18px;'> 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+<img src="https://th.bing.com/th/id/OIP.movQ-oIMwGnwSYKeCTwBbgHaHa?pid=ImgDet&rs=1" alt=Python" width="40" height="40"/></a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.Bw-654I2vqXgdj_A9rnB9QHaH_?w=175&h=187&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="c" width="40" height="40"/> </a> 
+<a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.Ubdf55d2nduG09owbJmS-wHaHV?w=174&h=180&c=7&r=0&o=5&pid=1.7" alt="css3" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+ </p>
+<h3 align="left">Thank you for Visiting</h3>
