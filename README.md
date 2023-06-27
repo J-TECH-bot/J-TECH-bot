@@ -6,7 +6,7 @@
 
 
 
-<div align="center" style="background-image: url('https://readme.com/static/img/home/footer-confetti-background.png');padding: 10px; " ><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLN4Sx-waWb2Wu8Z549dlVXMs0-QF4GwcFM7SEOh0-fiGDiveT8cH48ZVIJoOrIqY-QgA&usqp=CAU" width="70%" style=" margin='auto'; height="250px"; padding='60px'" / ></div>
+<div align="center" style="background-image: url('https://readme.com/static/img/home/footer-confetti-background.png');padding: 10px; " ><img src="https://th.bing.com/th/id/OIP.uW42BG6-28RfIkQQVPGadAHaD9?w=308&h=180&c=7&r=0&o=5&pid=1.7" width="70%" style=" margin='auto'; height="250px"; padding='60px'" / ></div>
 
 <div style='display: flex; justify-content: space-around; '  >
 <div align="left" style="padding-top: 20px;text-align: center;" >
@@ -56,7 +56,7 @@
 <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.Ubdf55d2nduG09owbJmS-wHaHV?w=174&h=180&c=7&r=0&o=5&pid=1.7" alt="css3" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  </p>
- <div h='5cm'><img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt=""></div>
+ <div h='2cm'><img src="https://cdn.dribbble.com/users/7162/screenshots/1888419/open-uri20150119-12-2b4861" alt=""></div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Jay" />
 
