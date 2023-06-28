@@ -55,8 +55,9 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.Bw-654I2vqXgdj_A9rnB9QHaH_?w=175&h=187&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="c" width="40" height="40"/> </a> 
 <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.Ubdf55d2nduG09owbJmS-wHaHV?w=174&h=180&c=7&r=0&o=5&pid=1.7" alt="css3" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.bzwqrp2A70m58vaFHu0uIgHaEK?pid=ImgDet&rs=1" alt="tablue" width="60" height="40"/> </a> 
  </p>
- <div h='2cm'><img src="https://cdn.dribbble.com/users/7162/screenshots/1888419/open-uri20150119-12-2b4861" alt=""></div>
+ <div h='2cm'><img src="https://cdn.dribbble.com/users/7162/screenshots/1888419/open-uri20150119-12-2b4861" alt="" width="1000" height="300"/></div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Jay" />
 
