@@ -59,11 +59,8 @@
 
 ## 🚀 Featured Projects
 
-<!-- [**Data Science Portfolio**](https://github.com/J-TECH-bot/data-science-portfolio)  
-  A collection of my best data analysis, visualization, and machine learning projects.
-
-- [**ML Model Playground**](https://github.com/J-TECH-bot/ml-model-playground)  
-  Experimenting with classic and modern machine learning algorithms.
+- [**SMS/Mail Classifier**](https://github.com/J-TECH-bot/SMS_Spam-Classifier)  
+  Experimenting with classifying data and modern machine learning algorithms.
 
 --->
 
