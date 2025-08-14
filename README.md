@@ -59,7 +59,8 @@
 
 ## 🚀 Featured Projects
 
-- [**SMS/Mail Classifier**](https://github.com/J-TECH-bot/SMS_Spam-Classifier)  
+- [**SMS/Mail Classifier**](https://github.com/J-TECH-bot/SMS_Spam-Classifier)
+-  [**Demo**](https://mailspamdetection.streamlit.app/)  
   Experimenting with classifying data and modern machine learning algorithms.
 
 --->
