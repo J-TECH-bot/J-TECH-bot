@@ -1,71 +1,83 @@
-<!-- <div width='70%' border='2px dashed blue' margin='auto' height='auto' ><img width='100%' height='30%' src='https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif' /> </div> -->
-<!-- <div  style="background-image: url(https://readme.com/static/img/home/footer-confetti-background.png);padding: 30px; " ><iframe src="" frameBorder="2" class="giphy-embed" ></iframe></div>
-<!--  -->
-<!--  <div  style="background-image: url(https://readme.com/static/img/home/footer-confetti-background.png);padding: 30px; " ><img src="https://art.pixilart.com/3e3fc9c4c42536a.gif" width="90%" height="380" ></img></div> --> 
-<!-- <img src='https://camo.githubusercontent.com/92b406742484961df85585a2624ca87c4da03814428bed001e34404cb9de054b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966'  /> -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/69380047?v=4" width="120" height="120" alt="profile" style="border-radius:50%; box-shadow:0 0 0 4px #00ff80, 0 0 20px 4px #00ff80;">
+</p>
 
+<h1 align="center">Hi, I'm Jay Deshmukh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<p align="center">
+  <b>🚀 Freasher in Data Science | Turning data into meaningful insights.</b>
+</p>
 
+---
 
-<div align="center" style="background-image: url('https://readme.com/static/img/home/footer-confetti-background.png');padding: 10px; " ><img src="https://th.bing.com/th/id/OIP.uW42BG6-28RfIkQQVPGadAHaD9?w=308&h=180&c=7&r=0&o=5&pid=1.7" width="70%" style=" margin='auto'; height="250px"; padding='60px'" / ></div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-007ACC?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+</p>
 
-<div style='display: flex; justify-content: space-around; '  >
-<div align="left" style="padding-top: 20px;text-align: center;" >
-<h1 align="center" margin='20px' >Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Jay Deshmukh </h1>
-<h3 align="center" margin='20px' >A passionate and aspiring Data Scientist from India</h3>
-<p align="center" style="width: 30px; margin-left: 30%; margin-top: 30px;"    > <img style="width: 150px;" src="https://komarev.com/ghpvc/?username=J-TECH-bot&label=Profile%20views&color=0e75b6&style=flat" alt="J-TECH-bot" /> </p>
+---
 
-</div>
-  <!-- <div flex-grow=1>
-<img src='https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif' />
-</div> -->
-<!-- <div align="right" ><iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr"></a></p></div> -->
-</div>
+## 👤 About Me
 
-<div align="center" style="padding: 15px 20px;">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tilt+Neon&weight=800&size=29&pause=1000&color=2196F3&background=82FF4A00&width=435&lines=I'm+a+Data+Scientist.;Hope+to+get+in+touch+" alt="Typing SVG" /></a>
-    </div>
+- 🌟 I am a fresher in Data Science, passionate about uncovering stories hidden in data.
+- 🧑‍💻 Experienced with Python, Pandas, NumPy, and machine learning, Deep learning frameworks.
+- 🔢 Love building data-driven solutions and interactive dashboards.
+- 🌱 Currently expanding my skills in deep learning and cloud data platforms.
+- 💬 Ask me about data wrangling, visualization, or finding insights!
+- 📫 How to reach me: [Email](mailto:jaydeshmukh135@gmail.com) | [LinkedIn](https://www.linkedin.com/in/er-jay-deshmukh-4373761a1/)
+- ⚡ Fun fact: My favorite charts are violin plots!
 
+---
 
-<img width="90%" height="180px" margin="'auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/0c696763393359.5ab4ecb5ec40c.gif" alt="">
+## 🏆 GitHub Stats
 
-   
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=J-TECH-bot&show_icons=true&theme=radical" alt="J-TECH-bot's GitHub stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=J-TECH-bot&theme=radical&hide_border=false" width="49%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-TECH-bot&layout=compact&theme=radical" width="49%"/>
+</p>
 
+---
 
-<p align="center" style=' width:"90%"; margin: auto; padding: 30px; '> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=J-TECH-bot" alt="J-TECH-bot" /></a> </p>
+## 📈 Profile Stats
 
-- 🧠 I’m currently learning *Machine Learning*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=J-TECH-bot&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/J-TECH-bot?label=Followers&style=flat-square" />
+  <img src="https://img.shields.io/github/repos/J-TECH-bot?label=Public%20Repos&style=flat-square" />
+</p>
 
-- 👯 I’m looking to collaborate on Projects.
+---
 
-- 📝 I regularly read articles on Technology.
+## 🚀 Featured Projects
 
-- 💬 Ask me about *PowerBI, SQL and Data Visualization*
+<!-- [**Data Science Portfolio**](https://github.com/J-TECH-bot/data-science-portfolio)  
+  A collection of my best data analysis, visualization, and machine learning projects.
 
-- 📫 How to reach me *jaydeshmukh135@gmail.com*
+- [**ML Model Playground**](https://github.com/J-TECH-bot/ml-model-playground)  
+  Experimenting with classic and modern machine learning algorithms.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left" style=' width:"90%"; margin: auto; padding: 23px;display: flex; gap: 18px; '>
-<a href="https://github.com/J-TECH-bot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Jay" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jay-deshmukh-4373761a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jay" height="30" width="40" /></a>
-  
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style=' width:"90%"; margin: auto; padding: 23px; display: flex; gap: 18px;'> 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-<img src="https://th.bing.com/th/id/OIP.movQ-oIMwGnwSYKeCTwBbgHaHa?pid=ImgDet&rs=1" alt=Python" width="40" height="40"/></a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.Bw-654I2vqXgdj_A9rnB9QHaH_?w=175&h=187&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="c" width="40" height="40"/> </a> 
-<a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.Ubdf55d2nduG09owbJmS-wHaHV?w=174&h=180&c=7&r=0&o=5&pid=1.7" alt="css3" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.bzwqrp2A70m58vaFHu0uIgHaEK?pid=ImgDet&rs=1" alt="tablue" width="60" height="40"/> </a> 
- </p>
- <div h='2cm'><img src="https://cdn.dribbble.com/users/7162/screenshots/1888419/open-uri20150119-12-2b4861" alt="" width="1000" height="300"/></div>
+--->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Jay" />
+## 🌐 Connect With Me
 
+<p align="center">
+  <a href="https://github.com/J-TECH-bot"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:jaydeshmukh135@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/er-jay-deshmukh-4373761a1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://portfoliojd03.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=about-dot-me&logoColor=white"/></a>
+</p>
 
-<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=J-TECH-bot&" alt="J-TECH-bot"  /></p></div>
+---
 
-  <div style="display: flex; flex-direction:"row"; align-items: center; justify-content: center;" width="100%">
-        <img style="display:'block';" src="https://github-readme-stats.vercel.app/api?username=J-TECH-bot&show_icons=true&bg_color=00000000" alt='' />
-        <img style="display:'block';" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-TECH-bot&layout=compact" height="175px"  alt=''/>
-  </div>
-<h3 align="left">Thank you for Visiting</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4F8CFF&center=true&vCenter=true&width=440&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+explore+data+together!+📊" alt="Typing SVG"/>
+</p>
