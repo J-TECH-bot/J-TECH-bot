@@ -1,6 +1,7 @@
-<p align="center">
+<!--<p align="center">
   <img src="https://avatars.githubusercontent.com/u/69380047?v=4" width="120" height="120" alt="profile" style="border-radius:50%; box-shadow:0 0 0 4px #00ff80, 0 0 20px 4px #00ff80;">
 </p>
+-->
 
 <h1 align="center">Hi, I'm Jay Deshmukh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 <p align="center">
