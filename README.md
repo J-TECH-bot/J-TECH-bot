@@ -97,7 +97,21 @@ A **Data Science + Machine Learning project** that predicts the **winning probab
 - ⚡ Built a machine learning model to calculate **real-time win probabilities**.  
 - 🧮 Considered factors like runs, overs, wickets, current run rate, and required run rate.  
 - 🚀 Designed an interactive visualization dashboard for probability tracking.  
-- 🌐 Future-ready for **deployment as a live match predictor app**.  
+- 🌐 Future-ready for **deployment as a live match predictor app**.
+
+---
+
+### 🩺 [Breast Cancer Classification](https://github.com/J-TECH-bot/Breast-Cancer-Classification)  
+🔗 [Live Demo](https://breastcancerclassifier0.streamlit.app/)  
+
+A **Machine Learning + Deep Learning project** to classify whether a breast tumor is **Malignant (cancerous)** or **Benign (non-cancerous)**.  
+
+**Key Highlights:**  
+- 🧠 Used **Logistic Regression** for classification.  
+- 📊 Performed **feature engineering** on medical datasets (mean radius, texture, smoothness, etc.).  
+- ⚡ Achieved high accuracy, precision, and recall in detecting cancer.  
+- 📈 Compared multiple ML model to select the most reliable predictor.  
+- 🌐 Can be deployed as a **Streamlit web app** for real-time cancer prediction support.
 
 
 ## 🌐 Connect With Me
