@@ -58,13 +58,20 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects  
 
-- [**SMS/Mail Classifier**](https://github.com/J-TECH-bot/SMS_Spam-Classifier)
--  [**Demo**](https://mailspamdetection.streamlit.app/)  
-  Experimenting with classifying data and modern machine learning algorithms.
+### 📌 [SMS/Mail Spam Classifier](https://github.com/J-TECH-bot/SMS_Spam-Classifier)  
+🔗 [Live Demo](https://mailspamdetection.streamlit.app/)  
 
---->
+A Machine Learning project that classifies whether a message is **Spam** or **Not Spam**.  
+
+**Key Highlights:**  
+- ✅ Built using **Python, Scikit-learn, and NLP techniques**.  
+- 📊 Preprocessed text data (stopwords removal, stemming, vectorization using TF-IDF).  
+- 🤖 Trained multiple models (Naive Bayes, Logistic Regression, etc.) to find the best performer.  
+- ⚡ Integrated into an **interactive Streamlit web app** for real-time message classification.  
+- 🌐 Deployed for easy access and testing.  
+
 
 ## 🌐 Connect With Me
 
