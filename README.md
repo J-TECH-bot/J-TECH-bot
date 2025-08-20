@@ -70,7 +70,35 @@ A Machine Learning project that classifies whether a message is **Spam** or **No
 - 📊 Preprocessed text data (stopwords removal, stemming, vectorization using TF-IDF).  
 - 🤖 Trained multiple models (Naive Bayes, Logistic Regression, etc.) to find the best performer.  
 - ⚡ Integrated into an **interactive Streamlit web app** for real-time message classification.  
-- 🌐 Deployed for easy access and testing.  
+- 🌐 Deployed for easy access and testing.
+
+  ---
+
+### 🐶🐱 [Cat vs Dog Image Classification (CNN)](https://github.com/J-TECH-bot/Cat-Dog-Classification)  
+🔗 [Live Demo](https://catdogimageclassifier.streamlit.app/)  
+
+A **Deep Learning project** that classifies images into **Cat** 🐱 or **Dog** 🐶 using Convolutional Neural Networks (CNN).  
+
+**Key Highlights:**  
+- 🧠 Built with **TensorFlow/Keras** and CNN architecture.  
+- 📷 Preprocessed and augmented image dataset for robust training.  
+- ⚡ Achieved high accuracy on validation & test data.  
+- 📊 Visualized training performance with accuracy/loss curves.  
+- 🚀 Can be extended into a **real-time image classification web app**.
+
+----
+
+### 🏏 [IPL Win Probability Predictor](https://github.com/J-TECH-bot/IPL_Winning_Probability)  
+🔗 [Live Demo](https://iplwinprobability01.streamlit.app/) 
+
+A **Data Science + Machine Learning project** that predicts the **winning probability of IPL teams** during a live cricket match.  
+
+**Key Highlights:**  
+- 📊 Analyzed ball-by-ball IPL datasets to extract match insights.  
+- ⚡ Built a machine learning model to calculate **real-time win probabilities**.  
+- 🧮 Considered factors like runs, overs, wickets, current run rate, and required run rate.  
+- 🚀 Designed an interactive visualization dashboard for probability tracking.  
+- 🌐 Future-ready for **deployment as a live match predictor app**.  
 
 
 ## 🌐 Connect With Me
