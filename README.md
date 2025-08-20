@@ -76,7 +76,7 @@ A Machine Learning project that classifies whether a message is **Spam** or **No
 
   ---
 
-### 🐶🐱 [Cat vs Dog Image Classification (CNN)](https://github.com/J-TECH-bot/Cat-Dog-Classification)  
+### 🐶🐱 [Cat vs Dog Image Classification (CNN)](https://github.com/J-TECH-bot/Cat_Dog_Classification)  
 🔗 [Live Demo](https://catdogimageclassifier.streamlit.app/)  
 
 A **Deep Learning project** that classifies images into **Cat** 🐱 or **Dog** 🐶 using Convolutional Neural Networks (CNN).  
@@ -90,7 +90,7 @@ A **Deep Learning project** that classifies images into **Cat** 🐱 or **Dog** 
 
 ----
 
-### 🏏 [IPL Win Probability Predictor](https://github.com/J-TECH-bot/IPL_Winning_Probability)  
+### 🏏 [IPL Win Probability Predictor](https://github.com/J-TECH-bot/IPL-_WIn_Probability_Prediction)  
 🔗 [Live Demo](https://iplwinprobability01.streamlit.app/) 
 
 A **Data Science + Machine Learning project** that predicts the **winning probability of IPL teams** during a live cricket match.  
@@ -104,7 +104,7 @@ A **Data Science + Machine Learning project** that predicts the **winning probab
 
 ---
 
-### 🩺 [Breast Cancer Classification](https://github.com/J-TECH-bot/Breast-Cancer-Classification)  
+### 🩺 [Breast Cancer Classification](https://github.com/J-TECH-bot/Breast_cancer_Classification)  
 🔗 [Live Demo](https://breastcancerclassifier0.streamlit.app/)  
 
 A **Machine Learning + Deep Learning project** to classify whether a breast tumor is **Malignant (cancerous)** or **Benign (non-cancerous)**.  
