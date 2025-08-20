@@ -53,7 +53,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=J-TECH-bot&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/J-TECH-bot?label=Followers&style=flat-square" />
-  <img src="https://img.shields.io/github/repos/J-TECH-bot?label=Public%20Repos&style=flat-square" />
 </p>
 
 ---
