@@ -45,9 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=J-TECH-bot&show_icons=true&theme=radical" alt="J-TECH-bot's GitHub stats" width="49%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=J-TECH-bot&theme=radical&hide_border=false" width="49%"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-TECH-bot&layout=compact&theme=radical" width="49%"/>
-</p>
 
 ---
 
