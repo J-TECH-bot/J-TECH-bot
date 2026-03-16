@@ -35,7 +35,7 @@
 - 🌱 Currently expanding my skills in deep learning and cloud data platforms.
 - 💬 Ask me about data wrangling, visualization, or finding insights!
 - 📫 How to reach me: [Email](mailto:jaydeshmukh135@gmail.com) | [LinkedIn](https://www.linkedin.com/in/er-jay-deshmukh-4373761a1/)
-- ⚡ Fun fact: My favorite charts are violin plots!
+- ⚡ Fun fact: My favorite charts are Box plot and line graph!
 
 ---
 
